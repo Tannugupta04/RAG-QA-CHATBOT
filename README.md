@@ -1,4 +1,8 @@
-Link ToApp(https://rag-app-chatbot-apt6padceu6vygjttd4pyy.streamlit.app/)
+## 🌐 Live Demo
+
+👉 **[Click here to open the app](https://rag-app-chatbot-apt6padceu6vygjttd4pyy.streamlit.app/)**  
+Experience the RAG-based chatbot live on Streamlit Cloud.
+
 
 # Loan Approval Q&A Chatbot (RAG-based)
 
