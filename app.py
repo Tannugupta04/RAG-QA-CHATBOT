@@ -225,7 +225,7 @@ import pandas as pd
 
 from rag_pipeline import setup_llm, load_vector_store, get_answer
 
-DATA_PATH = "data/Training Dataset.csv"
+DATA_PATH = "Data/Training Dataset.csv"
 
 st.set_page_config(
     page_title="Loan Approval Q&A Chatbot",
