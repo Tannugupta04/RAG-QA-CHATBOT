@@ -68,6 +68,11 @@
 #     return answer.strip()
 from langchain_community.vectorstores import FAISS
 from langchain_community.embeddings import HuggingFaceEmbeddings
+<<<<<<< HEAD
+=======
+from langchain_community.llms import HuggingFacePipeline
+
+>>>>>>> 273e7facd395a04a475fd6e57006a362bb34ec1a
 from transformers import pipeline
 import pandas as pd
 
