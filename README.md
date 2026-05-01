@@ -1,6 +1,6 @@
 ## 🌐 Live Demo
 
-👉 **[Click here to open the app](https://rag-app-chatbot-apt6padceu6vygjttd4pyy.streamlit.app/)**  
+👉 **[Click here to open the app](https://rag-app-chatbot-g5vpkfbkxeubjidc9qwmdt.streamlit.app/)**  
 Experience the RAG-based chatbot live on Streamlit Cloud.
 
 
