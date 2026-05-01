@@ -255,15 +255,15 @@ def load_vector_store():
     )
     return vectordb
 
-
 def setup_llm():
     pipe = pipeline(
-        task="text2text-generation",
+        "text2text-generation",
         model="google/flan-t5-small",
         tokenizer="google/flan-t5-small",
         max_new_tokens=80
     )
     return pipe
+
 
 
 def get_answer(query, vectordb, llm, df=None):
