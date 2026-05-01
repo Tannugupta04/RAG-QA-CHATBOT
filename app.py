@@ -246,7 +246,7 @@ if "df" not in st.session_state:
     if os.path.exists(DATA_PATH):
         st.session_state.df = pd.read_csv(DATA_PATH)
     else:
-        st.error("Dataset not found. Check data/Training Dataset.csv")
+        st.error("Dataset not found. Check Data/Training Dataset.csv")
         st.stop()
 
 if "vectordb" not in st.session_state:
